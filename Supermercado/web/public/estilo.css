@@ -1,0 +1,350 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : 18/10/2023, 10:44:19 a. m.
+    Author     : camil
+*/
+
+.minav {
+    margin-top: -10px;
+
+}
+
+.mit {
+    display: flex;
+    justify-content: center;
+}
+
+.minav2 {
+    width: 100%;
+    flex-direction: column;
+}
+
+#midiv {
+    background-color: yellow;
+    margin-bottom: -7px;
+
+}
+
+.midiv2 {
+    background-color: rgb(255, 255, 255);
+    margin-bottom: -17px;
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+
+}
+
+#nSuper {
+    font-size: 45px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.mibody {
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    height: 100vh;
+    flex-direction: column;
+}
+
+.metropolis {
+    padding-left: 15px;
+}
+
+#mediosb {
+    display: flex;
+}
+
+#minisb {
+
+    display: flex;
+}
+
+.divsb {
+    background-color: yellow;
+}
+
+#miform3 {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    height: 659px;
+}
+
+.l {
+    font-family: sans-serif;
+    box-sizing: border-box;
+    font-size: 18px;
+    color: rgb(0, 0, 0);
+    padding: 10px;
+    font-weight: 300;
+}
+
+.input {
+    display: block;
+    border: 2px solid black;
+    width: 95%;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+
+.miform {
+    width: 415px;
+    border: 2px solid black;
+    padding: 4.3rem;
+    background-color: yellow;
+    border: none;
+    border-radius: 20px;
+    color: rgb(0, 0, 0);
+    padding-bottom: 4.5rem;
+    margin-top: 5rem;
+    padding-top: 28px;
+}
+
+.IS {
+    display: block;
+    border: 2px solid yellow;
+    width: 95%;
+    padding: 10px;
+    margin-left: 22px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+
+}
+
+.mibtn2 {
+    float: right;
+    padding: .5rem;
+    border: none;
+    width: 45%;
+    border-radius: 5px;
+    margin-right: 10px;
+}
+
+.divsb {
+    background-color: yellow;
+}
+
+.miul :hover {
+    background-color: rgb(0, 115, 255);
+}
+
+.mibtn2:hover {
+    background-color: rgb(4, 65, 196)
+}
+
+.a {
+    float: left;
+    margin-left: 10px;
+    padding: .5rem;
+    text-decoration: none;
+}
+
+.a:hover {
+    color: rgb(4, 65, 196)
+}
+
+.df {
+    width: 130px;
+    margin-bottom: 7px;
+}
+
+.dfi {
+    display: flex;
+    justify-content: center;
+}
+
+.miformAD {
+    width: 480px;
+    border: 2px solid black;
+    padding: 3.3rem;
+    background-color: yellow;
+    border: none;
+    border-radius: 20px;
+    color: rgb(0, 0, 0);
+    padding-bottom: 4.5rem;
+    margin-top: 4rem;
+    padding-top: 35px;
+}
+
+.boton {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 30px;
+    cursor: pointer;
+    margin-top: 32px;
+}
+
+.lbl-switch {
+    cursor: pointer;
+    margin-bottom: 50px;
+}
+
+#btn-switch {
+    width: 2rem;
+    margin-right: 10px;
+}
+
+
+.btn2-switch {
+    height: 50px;
+    margin-top: 30px;
+    width: 260px;
+    position: absolute;
+    top: 590px;
+    left: 50%;
+    transform: translateX(-50%);
+
+}
+.boton #btn-switch:checked~.btn2-switch {
+    background-color: rgb(0, 115, 255);
+  }
+  .btn3 {
+    height: 50px;
+    margin-top: 95px;
+    width: 260px;
+    position: absolute;
+    top: 590px;
+    left: 50%;
+    transform: translateX(-50%);
+    border: 2px solid #007bff;
+}
+.btn3:hover{
+    background-color: #007bff;
+    color: white;
+}
+.df2 {
+    width: 130px;
+   margin-top: 15px;
+    margin-bottom: 15px;
+}
+.AD{
+    color:  rgb(0, 115, 255);
+
+}
+.AD:hover{
+    color: white;
+}
+.btn4 {
+    height: 50px;
+    margin-top: 3px;
+    width: 260px;
+    position: absolute;
+    top: 590px;
+    left: 50%;
+    transform: translateX(-50%);
+}
+.boton #btn-switch:checked~.btn4 {
+    background-color: rgb(0, 115, 255);
+}
+.miformAL {
+    width: 450px;
+    border: 2px solid black;
+    padding: 3.3rem;
+    background-color: yellow;
+    border: none;
+    border-radius: 20px;
+    color: rgb(0, 0, 0);
+    padding-bottom: 4.5rem;
+    margin-top: 4rem;
+    padding-top: 35px;
+}
+.miformReP {
+    width: 620px;
+    border: 2px solid black;
+    padding: 5.3rem;
+    background-color: yellow;
+    border: none;
+    border-radius: 20px;
+    color: rgb(0, 0, 0);
+    padding-bottom: 4.5rem;
+    margin-top: 3rem;
+    padding-top: 28px;
+}
+.CP{
+    display: block;
+    border: 2px solid yellow;
+    width: 95%;
+    padding: 5px;
+    margin-left: 22px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+}
+.formRP{
+display: flex;
+justify-content: space-around;
+}
+.Registro{
+    height: 50px;
+    margin-top: 140px;
+    width: 270px;
+    position: absolute;
+    top: 590px;
+    left: 50%;
+    transform: translateX(-50%);
+    border: 2px solid #007bff;
+}
+.imgU{
+    width: 130px;
+}
+.miImgU{
+    display: flex;
+    justify-content: center;
+}
+.input2 {
+    display: block;
+    border: 2px solid black;
+    width: 95%;
+    padding: 9px;
+    margin: 9px;
+    border-radius: 10px;
+    margin-bottom: 8px;
+}
+.AL{
+    color: white;
+    text-decoration:none
+}
+.miformReEmp {
+    width: 650px;
+    border: 2px solid black;
+    padding: 5.3rem;
+    background-color: yellow;
+    border: none;
+    border-radius: 20px;
+    color: rgb(0, 0, 0);
+    padding-bottom: 4.5rem;
+    margin-top: 3rem;
+    padding-top: 28px;
+}
+.imgE{
+    width: 130px;
+    border-radius: 100px;
+}
+.Emp1{
+    width: 50%;
+}
+.Emp2{
+    width: 50%;
+}
+.Registro2{
+    height: 50px;
+    margin-top: 130px;
+    width: 270px;
+    position: absolute;
+    top: 590px;
+    left: 50%;
+    transform: translateX(-50%);
+    border: 2px solid #007bff;
+}
+.miLimp{
+    display: flex;
+    justify-content: space-evenly;
+}

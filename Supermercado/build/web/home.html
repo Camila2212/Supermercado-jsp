@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<!--
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/Html.html to edit this template
+-->
+<html>
+    <head>
+        <title>TODO supply a title</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="public/dist/css/bootstrap.css"/>
+        <script src="public/dist/js/bootstrap.js"></script>
+    </head>
+    <body>
+        <jsp:include page="jspf/menu.jspf"></jsp:include>
+         <div id="carrousel">
+          <div id="carouselExampleInterval" class="carousel slide" data-bs-ride="carousel">
+            <div class="carousel-inner imgc">
+              <div class="carousel-item active" data-bs-interval="10000">
+                  <img src="public/img/Captura de pantalla 2023-03-21 073922.png" class="d-block w-100" alt="...">
+              </div>
+              <div class="carousel-item">
+                  <img src="public/img/Captura de pantalla 2023-03-21 074046.png" class="d-block w-100" alt="...">
+              </div>
+              <div class="carousel-item " data-bs-interval="10000">
+                  <img src="public/img/Captura de pantalla 2023-03-21 074110.png" class="d-block w-100" alt="...">
+              </div>
+
+            </div>
+            <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleInterval"
+              data-bs-slide="prev">
+              <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+              <span class="visually-hidden">Previous</span>
+            </button>
+            <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleInterval"
+              data-bs-slide="next">
+              <span class="carousel-control-next-icon" aria-hidden="true"></span>
+              <span class="visually-hidden">Next</span>
+            </button>
+          </div>
+        </div>
+    </body>
+</html>

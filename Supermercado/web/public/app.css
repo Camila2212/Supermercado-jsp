@@ -1,0 +1,102 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : 11/10/2023, 6:26:24 p. m.
+    Author     : camil
+*/
+.miTr{
+    background: yellow;
+}
+.minav {
+    margin-top: -10px;
+
+}
+
+#midiv {
+    background-color: yellow;
+    margin-bottom: -7px;
+
+}
+
+#nSuper {
+    font-size: 45px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#SuperSid {
+    display: flex;
+    width: 100%;
+}
+.mibc{
+    width: 42%;
+    display: flex;
+    flex-direction: row-reverse;
+}
+#nSuperSid {
+    display: flex;
+    font-size: 35px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.msb{
+    background: yellow;
+}
+.misbs{
+    background: yellow;
+    color: black;
+}
+.navbar-brand {
+    display: flex;
+}
+
+.miul {
+    background-color: yellow
+}
+.divsb{
+    background-color: yellow;
+}
+
+
+.miul :hover {
+    background-color: rgb(0, 115, 255);
+}
+
+#mediosb {
+    display: flex;
+}
+
+#minisb {
+    display: flex;
+}
+.mihovers {
+    background: yellow;
+}
+.mihovers :hover{
+    background-color: red;
+}
+.mibtnE{
+    background: red;
+    color: white;
+}
+.nt{
+    padding-top: 5px;
+    width: 45%;
+    font-size: 55px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   
+}
+.mit{
+    padding-top: 2rem !important;
+    padding-left:  3rem !important;
+    padding-right:  3rem !important;
+    padding-bottom:  3rem !important;
+}
+.miC{
+        padding-top: 20px;
+}
+.mibtL{
+    background: blueviolet;
+}
+.mibtL :hover{
+    background: #007bff;
+}
